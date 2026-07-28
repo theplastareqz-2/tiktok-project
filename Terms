@@ -1,0 +1,19 @@
+Privacy Policy
+Last updated: July 2026
+
+This application ("alaarabi") is a personal-use automation tool operated by an individual to upload video content to their own TikTok account via the TikTok API.
+
+1. Data Collected
+This application accesses only the TikTok account data necessary to authenticate and publish video content on behalf of the account owner, via TikTok's official OAuth authorization flow. This includes an access token and refresh token issued by TikTok.
+
+2. Data Storage
+Access tokens are stored locally on the operator's own device and are not transmitted to or stored by any third party.
+
+3. Data Sharing
+No data collected by this application is sold, shared, or disclosed to any third party. Video content processed by this application is only ever sent to TikTok, for the sole purpose of publishing it to the operator's own account.
+
+4. Data Retention
+Access tokens are retained only for as long as needed to operate the application and may be revoked at any time by the operator via their TikTok account settings.
+
+5. Contact
+For questions about this privacy policy, contact the repository owner via GitHub.
